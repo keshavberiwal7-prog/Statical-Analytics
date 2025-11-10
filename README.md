@@ -1,1 +1,1 @@
-# Statical-Alalytics
+# Statical-Analytics
